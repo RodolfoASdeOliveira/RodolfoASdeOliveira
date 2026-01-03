@@ -1,4 +1,4 @@
-</# Rodolfo A S de Oliveira 🖥️📈
+# Rodolfo A S de Oliveira 🖥️📈
 
 **`Programador e Trader |`**
 **`| Sempre aprendendo algo de novo`**
