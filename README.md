@@ -1,4 +1,4 @@
-# Rodolfo A S de Oliveira 🖥️📈
+</# Rodolfo A S de Oliveira 🖥️📈
 
 **`Programador e Trader |`**
 **`| Sempre aprendendo algo de novo`**
@@ -32,6 +32,13 @@ Me chamo Rodolfo Augusto Schettert de Oliveira, tenho 23 anos e sou natural do R
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/RodolfoASdeOliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/or00ga/followers/">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
@@ -119,3 +126,4 @@ Me chamo Rodolfo Augusto Schettert de Oliveira, tenho 23 anos e sou natural do R
   />
 
 </p>
+
